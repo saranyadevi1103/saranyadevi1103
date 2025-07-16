@@ -9,61 +9,50 @@
 
 ### 🌱 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science Engineering**
-- 👩‍💻 Currently working on: **Project Management Tool (MERN Stack)**
-- 💡 Passionate about **Data Science**, **Full Stack Dev**, and real-world problem solving
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saranya-devi-sankar-915979297)
+- 🎓 Final year B.E. Computer Science Engineering
+- 🔬 Exploring Data Science & Full Stack Web Dev
+- 🧠 Interested in AI, MongoDB, React & Python
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saranya-devi-sankar-915979297)
 
 ---
 
-### 🔥 My Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `JavaScript` `TypeScript` `C++`
-
-**Frontend:**  
-`React.js` `Tailwind CSS` `HTML` `CSS`
-
-**Backend:**  
-`Node.js` `Express.js` `MongoDB`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Postman` `VS Code`
-
----
-
-### 🛠️ My Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| [Crop Yield Prediction](https://github.com/saranyadevi1103/crop-yield-prediction) | ML-based prediction using MongoDB | Python, ML |
-| [PMTool Frontend](https://github.com/saranyadevi1103/pmtool-frontend) | React UI for project management | React, Tailwind |
-| [PMTool Backend](https://github.com/saranyadevi1103/pmtool-backend) | Backend API with Node & MongoDB | Node, Express |
+`Python` `JavaScript` `React.js` `Tailwind CSS` `Node.js` `Express` `MongoDB`  
+`Postman` `Git` `GitHub` `Vite` `Figma` `VS Code`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranyadevi1103&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranyadevi1103&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saranyadevi1103&show_icons=true&theme=rose_pine" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranyadevi1103&theme=rose_pine" width="45%" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🚀 My Projects
 
-<p>
-  <a href="https://linkedin.com/in/saranya-devi-sankar-915979297" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  </a>
-  <a href="mailto:saranyadevisankar1103@gmail.com">
-    <img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  </a>
-</p>
-
-<br/><br/>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Crop Yield Prediction](https://github.com/saranyadevi1103/crop-yield-prediction) | ML-based prediction system using NoSQL | Python, MongoDB |
+| [PM Tool Frontend](https://github.com/saranyadevi1103/pmtool-frontend) | Task & project dashboard UI | React, Tailwind |
+| [PM Tool Backend](https://github.com/saranyadevi1103/pmtool-backend) | APIs with user/project/task routes | Node, Express, MongoDB |
 
 ---
 
-> 🧠 *“Your future is created by what you do today, not tomorrow.”* — Start building it now!
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/saranya-devi-sankar-915979297" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+</a>
+<a href="mailto:saranyadevisankar1103@gmail.com">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
+</a>
+</p>
+
+---
+
+_“Code with 💖, and let your projects speak for your passion.”_
